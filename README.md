@@ -51,7 +51,7 @@ This phase goes beyond writing down features—it focuses on understanding the p
   - Testing: QA teams validate the product against the documented requirements.  
   - Deployment & Maintenance: Requirements help evaluate whether future changes align with the original business goals.  
 
-##Why is Requirement Analysis Important?
+## Why is Requirement Analysis Important?
 1. Prevents Misunderstandings and Miscommunication 
    Requirement Analysis ensures that stakeholders, developers, and testers all share the same understanding of what the system is supposed to achieve. Without this clarity, teams risk building features that do not align with user needs or business goals.
 
