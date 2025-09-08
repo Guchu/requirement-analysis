@@ -130,3 +130,12 @@ Help in identifying and organizing system requirements.
 Facilitate communication among stakeholders and development team.
 
 ![Use Case Diagram](./alx-booking-uc.png)
+
+## Acceptance Criteria
+### Importance of acceptance criteria
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders
+It should be specific, measurable and contain both functional and non-functional requirements
+
+### Acceptance criteria for checkout feature in the booking management system 
+Users should be able to successfully checkout from the application after securely making a payment on the booking they have made
+An error notification should be displayed to the user on trying to checkout if the booking they have made is currently unavailable
