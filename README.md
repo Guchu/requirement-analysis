@@ -21,7 +21,7 @@ Administrators / Business Analysts
 
 External Systems (Payment gateways, Notification services)
 
-## What is Requirement Analysis
+## What is Requirement Analysis?
 Requirement Analysis is the process of gathering, interpreting, and documenting the needs of stakeholders to define what a software system must achieve. It acts as the foundation for the entire software development lifecycle (SDLC), ensuring that the final product aligns with user expectations and business objectives.  
 
 This phase goes beyond writing down features—it focuses on understanding the problem space, exploring possible solutions, and setting clear boundaries for the project.
